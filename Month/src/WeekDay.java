@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MatchingMonths {
+public class WeekDay {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
