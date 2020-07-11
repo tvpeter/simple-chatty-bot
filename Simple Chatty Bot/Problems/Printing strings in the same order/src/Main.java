@@ -5,9 +5,10 @@ class Main {
         // put your code here
         Scanner scanner = new Scanner(System.in);
 
-        while (scanner.hasNext()){
-            System.out.println(scanner.next());
-        }
+        System.out.println(scanner.next());
+        System.out.println(scanner.next());
+        System.out.println(scanner.next());
+        System.out.println(scanner.next());
 
     }
 }
